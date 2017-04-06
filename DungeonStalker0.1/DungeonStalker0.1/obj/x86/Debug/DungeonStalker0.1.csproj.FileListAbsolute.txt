@@ -1,0 +1,25 @@
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\obj\x86\Debug\DungeonStalker0.1.csprojResolveAssemblyReference.cache
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\Content\small crosshair.xnb
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\Content\MenuResources\playButtonTemp.xnb
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\DungeonStalker0.1.exe
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\DungeonStalker0.1.pdb
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\obj\x86\Debug\DungeonStalker0.1.exe
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\obj\x86\Debug\DungeonStalker0.1.pdb
+C:\Users\marcus.andersson17\Source\Repos\DungeonStalker4\DungeonStalker0.1\DungeonStalker0.1\bin\Windows\x86\Debug\Content\GameResources\Player_temp.xnb
